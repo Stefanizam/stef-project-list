@@ -1,10 +1,10 @@
+import { NavBar } from "./components/navBar/NavBar";
+
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+    <div className="page-wrapper">
+      <header className="page-header">
+        <NavBar />
       </header>
     </div>
   );
