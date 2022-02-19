@@ -1,11 +1,11 @@
 import './App.css';
-import { NavBar } from "./components/NavBar/NavBar";
+import { NavigationBar } from "./components/NavigationBar/NavigationBar";
 
 function App() {
   return (
     <div className="page-wrapper">
       <header className="page-header">
-        <NavBar />
+        <NavigationBar />
       </header>
     </div>
   );
