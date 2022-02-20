@@ -1,17 +1,22 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import ProjectsData from "../ProjectsData/ProjectsData.json";
 
-export const ProjectsComponent = () => {
+export const ProjectsComponent = (props) => {
+  const [filteredProjects, setFilteredProjects] = useState([...ProjectsData]);
 
-
-  const imdbClickHandler = (movieId) => {
-    console.log("haha");
-  }
+  useEffect(() => {
+    if (props.searchValue) {
+      const updatedData = ProjectsData.filter(project => project.title.toLowerCase().includes(props.searchValue.toLowerCase()))
+      setFilteredProjects(updatedData)
+    } else {
+      setFilteredProjects([...ProjectsData]);
+    }
+  }, [props.searchValue])
 
   return (
     <div className="d-flex flex-wrap">
       {
-        ProjectsData.map(project => {
+        filteredProjects.map(project => {
           return (
             <div className="card project-card" key={Math.random()}>
               <img
@@ -23,7 +28,7 @@ export const ProjectsComponent = () => {
                   <h5 className="card-title">{project.title}</h5>
                   <p className="card-text text-secondary mb-3">{project.desc}</p>
                 </div>
-                <a href={project.imdbUrl} rel="noreferrer" target="_blank" onClick={() => imdbClickHandler(project.title)} className="btn btn-warning"><strong>IMDB</strong></a>
+                <a href={project.imdbUrl} rel="noreferrer" target="_blank" className="btn btn-warning"><strong>IMDB</strong></a>
               </div>
             </div>
           )
