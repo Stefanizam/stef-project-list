@@ -1,12 +1,16 @@
 import './App.css';
 import { NavigationBar } from "./components/NavigationBar/NavigationBar";
+import { ProjectsComponent } from "./components/ProjectsComponent/ProjectsComponent";
 
 function App() {
   return (
-    <div className="page-wrapper">
-      <header className="page-header">
+    <div id="page-wrapper">
+      <header id="page-header">
         <NavigationBar />
       </header>
+      <div id="main-wrapper">
+        <ProjectsComponent></ProjectsComponent>
+      </div>
     </div>
   );
 }

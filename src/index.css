@@ -5,10 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(50, 54, 58);
-  background-image: url('./images/bkg_image.png');
-  background-position-x: center;
-  color: white;
+  background-color: rgb(23, 25, 27);
 }
 
 code {

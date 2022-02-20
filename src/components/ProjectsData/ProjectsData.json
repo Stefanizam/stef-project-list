@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Star Wars: Episode VIII - The Last Jedi",
+    "role": "Lead Paint, Lead Compositing, Lead Digital Makeup",
+    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
+    "imdb-url": "https://www.imdb.com/title/tt2527336",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+  },
+  {
+    "title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "role": "Paint",
+    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
+    "imdb-url": "https://www.imdb.com/title/tt2527338",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "role": "Paint",
+    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
+    "imdb-url": "https://www.imdb.com/title/tt1843866",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+  },
+  {
+    "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "role": "Paint",
+    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
+    "imdb-url": "https://www.imdb.com/title/tt3949660",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+  },
+  {
+    "title": "Star Wars: Episode VIII - The Last Jedi",
+    "role": "Lead Paint, Lead Compositing, Lead Digital Makeup",
+    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
+    "imdb-url": "https://www.imdb.com/title/tt2527336",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+  },
+  {
+    "title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "role": "Paint",
+    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
+    "imdb-url": "https://www.imdb.com/title/tt2527338",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "role": "Paint",
+    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
+    "imdb-url": "https://www.imdb.com/title/tt1843866",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+  },
+  {
+    "title": "Star Wars: Episode VIII - The Last Jedi",
+    "role": "Lead Paint, Lead Compositing, Lead Digital Makeup",
+    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
+    "imdb-url": "https://www.imdb.com/title/tt2527336",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+  },
+  {
+    "title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "role": "Paint",
+    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
+    "imdb-url": "https://www.imdb.com/title/tt2527338",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+  },
+  {
+    "title": "Captain America: The Winter Soldier",
+    "role": "Paint",
+    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
+    "imdb-url": "https://www.imdb.com/title/tt1843866",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+  }
+]

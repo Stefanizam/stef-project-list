@@ -1,0 +1,20 @@
+#page-header {
+  width: 100%;
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding: 0.75rem 1rem;
+  color: white;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.75);
+}
+
+#main-wrapper {
+  padding: 2rem;
+}
+
+.project-card {
+  width: 18rem;
+  margin: 0 2rem 3rem 0;
+}
