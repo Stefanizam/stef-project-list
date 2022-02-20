@@ -9,7 +9,7 @@ function App() {
         <NavigationBar />
       </header>
       <div id="main-wrapper">
-        <ProjectsComponent></ProjectsComponent>
+        <ProjectsComponent />
       </div>
     </div>
   );

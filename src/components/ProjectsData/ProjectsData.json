@@ -1,72 +1,354 @@
 [
   {
     "title": "Star Wars: Episode VIII - The Last Jedi",
-    "role": "Lead Paint, Lead Compositing, Lead Digital Makeup",
+    "year": "2017",
+    "role": "Paint, Compositing, Digital Makeup",
     "desc": "The Star Wars saga continues as new heroes and galactic legends go on an epic adventure, unlocking mysteries of the Force and shocking revelations of the past.",
     "imdbUrl": "https://www.imdb.com/title/tt2527336",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
   },
   {
     "title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "year": "2019",
     "role": "Paint",
     "desc": "In the riveting conclusion of the landmark Skywalker saga, new legends will be born-and the final battle for freedom is yet to come.",
     "imdbUrl": "https://www.imdb.com/title/tt2527338",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg"
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGY4NTlmZDgtYTIzZi00NWU1LThlMmItYTdlMDM5N2M3MGRkXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg"
   },
   {
-    "title": "Captain America: The Winter Soldier",
+    "title": "Captain America: Civil War",
+    "year": "2016",
     "role": "Paint",
-    "desc": "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
-    "imdbUrl": "https://www.imdb.com/title/tt1843866",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzA2NDkwODAwM15BMl5BanBnXkFtZTgwODk5MTgzMTE@._V1_.jpg"
+    "desc": "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+    "imdbUrl": "https://www.imdb.com/title/tt3498820",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ0MTgyNjAxMV5BMl5BanBnXkFtZTgwNjUzMDkyODE@._V1_.jpg"
   },
   {
     "title": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+    "year": "2016",
     "role": "Paint",
     "desc": "Sample Text, just lorem ipsum something until I figure out what to write.  Sample Text, just lorem ipsum something until I figure out what to write. The Turtles get into another battle with their enemy the Shredder, who has acquired new allies: the mutant thugs Bebop and Rocksteady and the alien being Krang.",
     "imdbUrl": "https://www.imdb.com/title/tt3949660",
     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmVkNjVjZTQtNTczYS00ODk5LWFkNjItYjNlMDc5ZjMyYTQwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
   },
   {
-    "title": "Star Wars: Episode VIII - The Last Jedi",
-    "role": "Lead Paint, Lead Compositing, Lead Digital Makeup",
-    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
-    "imdbUrl": "https://www.imdb.com/title/tt2527336",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+    "title": "Star Trek: Discovery - Season 1",
+    "year": "2017",
+    "role": "Compositing, Paint, Simulation",
+    "desc": "Ten years before Kirk, Spock, and the Enterprise, the USS Discovery discovers new worlds and lifeforms as one Starfleet officer learns to understand all things alien",
+    "imdbUrl": "https://www.imdb.com/title/tt5171438",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjM3NDA1NjM1Nl5BMl5BanBnXkFtZTgwNzg5ODEzMzI@._V1_.jpg"
   },
   {
-    "title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "title": "Star Trek: Discovery - Season 2",
+    "year": "2017",
+    "role": "Compositing, Paint, Simulation",
+    "desc": "Ten years before Kirk, Spock, and the Enterprise, the USS Discovery discovers new worlds and lifeforms as one Starfleet officer learns to understand all things alien",
+    "imdbUrl": "https://www.imdb.com/title/tt5171438",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU5OTQwODI2OF5BMl5BanBnXkFtZTgwOTE4OTExNzM@._V1_.jpg"
+  },
+  {
+    "title": "Star Trek: Picard - Season 1",
+    "year": "2020",
+    "role": "Compositing, Paint, Visual Design",
+    "desc": "Follow-up series to Star Trek: The Next Generation (1987) and Star Trek: Nemesis (2002) that centers on Jean-Luc Picard (Sir Patrick Stewart) in the next chapter of his life.",
+    "imdbUrl": "https://www.imdb.com/title/tt8806524",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjAzYmQ4NTUtMGVjOS00OWRhLTlmYjktZDlkZTk2OGQ2YjE5XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg"
+  },
+  {
+    "title": "Black Panther",
+    "year": "2018",
     "role": "Paint",
-    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
-    "imdbUrl": "https://www.imdb.com/title/tt2527338",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+    "desc": "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+    "imdbUrl": "https://www.imdb.com/title/tt1825683",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjE4OTIzNzkyN15BMl5BanBnXkFtZTgwNzE4NjI5MzI@._V1_.jpg"
   },
   {
-    "title": "Captain America: The Winter Soldier",
+    "title": "Thor: Ragnarok",
+    "year": "2017",
     "role": "Paint",
-    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
-    "imdbUrl": "https://www.imdb.com/title/tt1843866",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+    "desc": "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+    "imdbUrl": "https://www.imdb.com/title/tt3501632",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg"
   },
   {
-    "title": "Star Wars: Episode VIII - The Last Jedi",
-    "role": "Lead Paint, Lead Compositing, Lead Digital Makeup",
-    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
-    "imdbUrl": "https://www.imdb.com/title/tt2527336",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
-  },
-  {
-    "title": "Star Wars: Episode IX - The Rise of Skywalker",
+    "title": "Mary Poppins Returns",
+    "year": "2018",
     "role": "Paint",
-    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
-    "imdbUrl": "https://www.imdb.com/title/tt2527338",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+    "desc": "A few decades after her original visit, Mary Poppins, the magical nanny, returns to help the Banks siblings and Michael's children through a difficult time in their lives.",
+    "imdbUrl": "https://www.imdb.com/title/tt5028340",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQxNjE3NjYxN15BMl5BanBnXkFtZTgwMTk2NDQ3NjM@._V1_.jpg"
   },
   {
-    "title": "Captain America: The Winter Soldier",
+    "title": "Spider-Man: Homecoming",
+    "year": "2017",
     "role": "Paint",
-    "desc": "Sample Text, just lorem ipsum something until I figure out what to write. Maybe paste something from IMDB",
-    "imdbUrl": "https://www.imdb.com/title/tt1843866",
-    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_FMjpg_UX800_.jpg"
+    "desc": "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
+    "imdbUrl": "https://www.imdb.com/title/tt2250912",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTk4ODQ1MzgzNl5BMl5BanBnXkFtZTgwMTMyMzM4MTI@._V1_.jpg"
+  },
+  {
+    "title": "Sully",
+    "year": "2016",
+    "role": "Paint",
+    "desc": "When pilot Chesley \"Sully\" Sullenberger lands his damaged plane on the Hudson River in order to save the flight's passengers and crew, some consider him a hero while others think he was reckless.",
+    "imdbUrl": "https://www.imdb.com/title/tt3263904",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BY2NmZDAwM2QtZmFiMS00OTJlLTgxMTItZDMyZmVhYjE1MDY3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+  },
+  {
+    "title": "Ben-Hur",
+    "year": "2016",
+    "role": "Paint",
+    "desc": "Judah Ben-Hur, a prince falsely accused of treason by his adopted brother, an officer in the Roman army, returns to his homeland after years at sea to seek revenge, but finds redemption.",
+    "imdbUrl": "https://www.imdb.com/title/tt2638144",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ2NzYxMDQ2OV5BMl5BanBnXkFtZTgwMDk2MzczOTE@._V1_.jpg"
+  },
+  {
+    "title": "Pokémon Detective Pikachu",
+    "year": "2019",
+    "role": "Paint",
+    "desc": "In a world where people collect Pokémon to do battle, a boy comes across an intelligent talking Pikachu who seeks to be a detective.",
+    "imdbUrl": "https://www.imdb.com/title/tt5884052",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDkxNzRmNDYtMDY0OS00N2JhLTkzZWUtMWE3MzZkNDk1MmJiXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_.jpg"
+  },
+  {
+    "title": "X-Men: Dark Phoenix",
+    "year": "2019",
+    "role": "Paint",
+    "desc": "Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix, causing the X-Men to decide if her life is worth more than all of humanity.",
+    "imdbUrl": "https://www.imdb.com/title/tt6565702",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMmZmYTgwZGItNDIxMS00MmRkLWEzODQtYTllNzM0ZWE1NmQ5XkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_.jpg"
+  },
+  {
+    "title": "X-Men: Apocalypse",
+    "year": "2016",
+    "role": "Paint",
+    "desc": "In the 1980s the X-Men must defeat an ancient all-powerful mutant, En Sabah Nur, who intends to thrive through bringing destruction to the world.",
+    "imdbUrl": "https://www.imdb.com/title/tt3385516",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjU1ODM1MzYxN15BMl5BanBnXkFtZTgwOTA4NDE2ODE@._V1_.jpg"
+  },
+  {
+    "title": "xXx: Return of Xander Cage",
+    "year": "2017",
+    "role": "Paint",
+    "desc": "Xander Cage is left for dead after an incident, though he secretly returns to action for a new, tough assignment with his handler Augustus Gibbons.",
+    "imdbUrl": "https://www.imdb.com/title/tt1293847",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzcwMjkxMzQ3NV5BMl5BanBnXkFtZTgwMzgyNDA5MDI@._V1_.jpg"
+  },
+  {
+    "title": "Passengers",
+    "year": "2016",
+    "role": "Paint",
+    "desc": "A malfunction in a sleeping pod on a spacecraft traveling to a distant colony planet wakes one passenger 90 years early.",
+    "imdbUrl": "https://www.imdb.com/title/tt1355644",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZjk4ZTMwMTYtOTk1NC00OTA0LWFhMGYtZTBjMzViMDY2YWZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+  },
+  {
+    "title": "Miss Peregrine's Home for Peculiar Children",
+    "year": "2016",
+    "role": "Paint",
+    "desc": "When Jacob discovers clues to a mystery that stretches across time, he finds Miss Peregrine's Home for Peculiar Children. But the danger deepens after he gets to know the residents and learns about their special powers.",
+    "imdbUrl": "https://www.imdb.com/title/tt1935859",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU0Nzc5NzI5NV5BMl5BanBnXkFtZTgwNTk1MDE4MDI@._V1_.jpg"
+  },
+  {
+    "title": "James Bond 007: Spectre",
+    "year": "2015",
+    "role": "Paint",
+    "desc": "A cryptic message from James Bond's past sends him on a trail to uncover the existence of a sinister organisation named SPECTRE. With a new threat dawning, Bond learns the terrible truth about the author of all his pain in his most recent missions.",
+    "imdbUrl": "https://www.imdb.com/title/tt2379713",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+  },
+  {
+    "title": "James Bond 007: No Time to Die",
+    "year": "2021",
+    "role": "Paint",
+    "desc": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+    "imdbUrl": "https://www.imdb.com/title/tt2382320",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg"
+  },
+  {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "year": "2017",
+    "role": "Paint",
+    "desc": "The Guardians struggle to keep together as a team while dealing with their personal family issues, notably Star-Lord's encounter with his father the ambitious celestial being Ego.",
+    "imdbUrl": "https://www.imdb.com/title/tt3896198",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjM0NTc0NzItM2FlYS00YzEwLWE0YmUtNTA2ZWIzODc2OTgxXkEyXkFqcGdeQXVyNTgwNzIyNzg@._V1_.jpg"
+  },
+  {
+    "title": "Lost in Space",
+    "year": "2018",
+    "role": "Paint",
+    "desc": "After crash-landing on an alien planet, the Robinson family fight against all odds to survive and escape, but they're surrounded by hidden dangers.",
+    "imdbUrl": "https://www.imdb.com/title/tt5232792",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzZkOTY4MDgtODI5Mi00ZjA4LWJkODgtYzBiOGE3MWNhZWFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+  },
+  {
+    "title": "Deadpool 2",
+    "year": "2018",
+    "role": "Paint",
+    "desc": "Foul-mouthed mutant mercenary Wade Wilson (a.k.a. Deadpool) assembles a team of fellow mutant rogues to protect a young boy with supernatural abilities from the brutal, time-traveling cyborg Cable.",
+    "imdbUrl": "https://www.imdb.com/title/tt5463162",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_.jpg"
+  },
+  {
+    "title": "Ghost in the Shell",
+    "year": "2017",
+    "role": "Paint",
+    "desc": "In the near future, Major Mira Killian is the first of her kind: A human saved from a terrible crash, who is cyber-enhanced to be a perfect soldier devoted to stopping the world's most dangerous criminals.",
+    "imdbUrl": "https://www.imdb.com/title/tt1219827",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzJiNTI3MjItMGJiMy00YzA1LTg2MTItZmE1ZmRhOWQ0NGY1XkEyXkFqcGdeQXVyOTk4MTM0NQ@@._V1_.jpg"
+  },
+  {
+    "title": "Mission: Impossible - Fallout",
+    "year": "2018",
+    "role": "Paint",
+    "desc": "Ethan Hunt and his IMF team, along with some familiar allies, race against time after a mission gone wrong.",
+    "imdbUrl": "https://www.imdb.com/title/tt4912910",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjIxYTUzMDYtNGFiNS00NTJkLWFjYWUtNzdjNDRiZmNjYmMzXkEyXkFqcGdeQXVyOTAyMTM4MTk@._V1_.jpg"
+  },
+  {
+    "title": "Monster Trucks",
+    "year": "2016",
+    "role": "Paint",
+    "desc": "A young man working at a small town junkyard discovers and befriends a creature which feeds on oil being sought by a fracking company.",
+    "imdbUrl": "https://www.imdb.com/title/tt3095734",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTEyMjAzMDk4ODZeQTJeQWpwZ15BbWU4MDUxNzMzMDEy._V1_.jpg"
+  },
+  {
+    "title": "Venom",
+    "year": "2018",
+    "role": "Paint",
+    "desc": "A failed reporter is bonded to an alien entity, one of many symbiotes who have invaded Earth. But the being takes a liking to Earth and decides to protect it.",
+    "imdbUrl": "https://www.imdb.com/title/tt1270797",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_.jpg"
+  },
+  {
+    "title": "Godzilla: The King of Monsters",
+    "year": "2019",
+    "role": "Paint",
+    "desc": "The crypto-zoological agency Monarch faces off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah.",
+    "imdbUrl": "https://www.imdb.com/title/tt3741700",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOGFjYWNkMTMtMTg1ZC00Y2I4LTg0ZTYtN2ZlMzI4MGQwNzg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+  },
+  {
+    "title": "Cats",
+    "year": "2019",
+    "role": "Paint",
+    "desc": "A tribe of cats called the Jellicles must decide yearly which one will ascend to the Heaviside Layer and come back to a new Jellicle life.",
+    "imdbUrl": "https://www.imdb.com/title/tt5697572",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTE4NWRhYmQtOTY4YS00OWMwLWEwYWUtZjVjNDhhODc5YzNmXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_.jpg"
+  },
+  {
+    "title": "Alien: Covenant",
+    "year": "2017",
+    "role": "Paint",
+    "desc": "The crew of a colony ship, bound for a remote planet, discover an uncharted paradise with a threat beyond their imagination, and must attempt a harrowing escape.",
+    "imdbUrl": "https://www.imdb.com/title/tt2316204",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzVkMjRhNzctOGQxMC00OGE2LWJhN2EtNmYyODRiMDNlM2ZmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+  },
+  {
+    "title": "Suicide Squad",
+    "year": "2016",
+    "role": "Paint",
+    "desc": "A secret government agency recruits some of the most dangerous incarcerated super-villains to form a defensive task force. Their first mission: save the world from the apocalypse.",
+    "imdbUrl": "https://www.imdb.com/title/tt1386697",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYzdhNmU3ZTYtZmRlOC00YmI2LWIzZmYtOWRmYTNjYmZiNDJiXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg"
+  },
+  {
+    "title": "Aquaman",
+    "year": "2018",
+    "role": "Paint",
+    "desc": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+    "imdbUrl": "https://www.imdb.com/title/tt1477834",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_.jpg"
+  },
+  {
+    "title": "Batman v Superman: Dawn of Justice",
+    "year": "2016",
+    "role": "Paint",
+    "desc": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.",
+    "imdbUrl": "https://www.imdb.com/title/tt2975590",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BYThjYzcyYzItNTVjNy00NDk0LTgwMWQtYjMwNmNlNWJhMzMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+  },
+  {
+    "title": "Goosebumps",
+    "year": "2015",
+    "role": "Paint",
+    "desc": "A teenager teams up with the daughter of young adult horror author R. L. Stine after the writer's imaginary demons are set free on the town of Madison, Delaware.",
+    "imdbUrl": "https://www.imdb.com/title/tt1051904",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjA1OTUzNTQ5Ml5BMl5BanBnXkFtZTgwODQ4NDkxNjE@._V1_.jpg"
+  },
+  {
+    "title": "Sonic the Hedgehog",
+    "year": "2020",
+    "role": "Paint",
+    "desc": "After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
+    "imdbUrl": "https://www.imdb.com/title/tt3794354",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDk5Yzc4NzMtODUwOS00NTdhLTg2MjEtZTkzZjc0ZWE2MzAwXkEyXkFqcGdeQXVyMTA3MTA4Mzgw._V1_.jpg"
+  },
+  {
+    "title": "Dolittle",
+    "year": "2020",
+    "role": "Paint",
+    "desc": "A physician who can talk to animals embarks on an adventure to find a legendary island with a young apprentice and a crew of strange pets.",
+    "imdbUrl": "https://www.imdb.com/title/tt6673612",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDNkODA5ZGQtODczOS00OTQxLThhMTItMjk0ZmNhMDM0YjNmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"
+  },
+  {
+    "title": "Men in Black: International",
+    "year": "2019",
+    "role": "Paint",
+    "desc": "The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest threat to date: a mole in the Men in Black organization.",
+    "imdbUrl": "https://www.imdb.com/title/tt2283336",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDZkODI2ZGItYTY5Yi00MTA4LWExY2ItM2ZmNjczYjM0NDg1XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg"
+  },
+  {
+    "title": "Aladdin",
+    "year": "2019",
+    "role": "Paint",
+    "desc": "A kind-hearted street urchin and a power-hungry Grand Vizier vie for a magic lamp that has the power to make their deepest wishes come true.",
+    "imdbUrl": "https://www.imdb.com/title/tt6139732",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_.jpg"
+  },
+  {
+    "title": "The Predator",
+    "year": "2018",
+    "role": "Paint",
+    "desc": "When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race.",
+    "imdbUrl": "https://www.imdb.com/title/tt3829266",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjgwNGYzMjMtMjk1MC00ZWQ5LTlkMGEtZGQ0NmM0MzYzOGNiXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_.jpg"
+  },
+  {
+    "title": "The Meg",
+    "year": "2018",
+    "role": "Paint",
+    "desc": "A group of scientists exploring the Marianas Trench encounter the largest marine predator that has ever existed - the Megalodon.",
+    "imdbUrl": "https://www.imdb.com/title/tt4779682",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmQ5ZjJlZDQtNWU5ZC00MTYwLWFmZWUtZTE5NjI5OTA5ODVhXkEyXkFqcGdeQXVyODk1MTMxNDI@._V1_.jpg"
+  },
+  {
+    "title": "Jurassic World: Fallen Kingdom",
+    "year": "2018",
+    "role": "Paint",
+    "desc": "When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+    "imdbUrl": "https://www.imdb.com/title/tt4881806",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNTg0NzVlMzItMWE3ZC00MWUxLWJjM2EtOGNhNTE1ODQ0ZDBiXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg"
+  },
+  {
+    "title": "Tomb Raider",
+    "year": "2018",
+    "role": "Paint",
+    "desc": "Lara Croft (Alicia Vikander), the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father, Lord Richard Croft (Dominic West) disappeared.",
+    "imdbUrl": "https://www.imdb.com/title/tt1365519",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BOTY4NDcyZGQtYmVlNy00ODgwLTljYTMtYzQ2OTE3NDhjODMwXkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_.jpg"
+  },
+  {
+    "title": "The Dark Tower",
+    "year": "2017",
+    "role": "Paint",
+    "desc": "A boy haunted by visions of a dark tower from a parallel reality teams up with the tower's disillusioned guardian to stop an evil warlock known as the Man in Black who plans to use the boy to destroy the tower and open the gates of Hell.",
+    "imdbUrl": "https://www.imdb.com/title/tt1648190",
+    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU3MjUwMzQ3MF5BMl5BanBnXkFtZTgwMjcwNjkxMjI@._V1_.jpg"
   }
 ]
