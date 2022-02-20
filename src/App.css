@@ -15,6 +15,26 @@
 }
 
 .project-card {
-  width: 18rem;
-  margin: 0 2rem 3rem 0;
+  width: 16rem;
+  margin: 0 1rem 1.5rem 0;
+  /* border: 0; */
+  transform: scale(1)
+}
+
+.project-card:hover {
+  border-color: orange;
+  transform: scale(1.1);
+  transition: all 0.25s;
+}
+
+.card-body {
+  height: 268px;
+}
+
+.card-img-top {
+  height: 380px;
+}
+
+.card-text {
+  overflow: auto;
 }

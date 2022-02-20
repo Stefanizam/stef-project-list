@@ -5,7 +5,7 @@ export const ProjectsComponent = () => {
 
 
   const imdbClickHandler = (movieId) => {
-    console.log(movieId);
+    console.log("haha");
   }
 
   return (
@@ -18,10 +18,12 @@ export const ProjectsComponent = () => {
                 className="card-img-top"
                 src={project.imageUrl}
                 alt={`${project.title}`} />
-              <div className="card-body">
-                <h5 className="card-title">{project.title}</h5>
-                <p className="card-text">{project.desc}</p>
-                <button onClick={() => imdbClickHandler(project.title)} className="btn btn-warning">IMDB</button>
+              <div className="card-body d-flex flex-column justify-content-between overflow-hidden">
+                <div className="d-flex flex-column overflow-auto">
+                  <h5 className="card-title">{project.title}</h5>
+                  <p className="card-text text-secondary mb-3">{project.desc}</p>
+                </div>
+                <a href={project.imdbUrl} rel="noreferrer" target="_blank" onClick={() => imdbClickHandler(project.title)} className="btn btn-warning"><strong>IMDB</strong></a>
               </div>
             </div>
           )
