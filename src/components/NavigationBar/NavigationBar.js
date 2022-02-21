@@ -7,7 +7,7 @@ export const NavigationBar = (props) => {
       <input
         name="search"
         onChange={(e) => props.onSearch(e.target.value)}
-        autoComplete={false}
+        autoComplete="false"
         placeholder="Search..."
         className="w-100 px-2 form-control" />
       <button className="btn btn-secondary btn-sm flex-shrink-0">Search</button>
