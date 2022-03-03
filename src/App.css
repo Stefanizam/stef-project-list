@@ -44,11 +44,16 @@
 
 .card-back {
   position: absolute;
-  top: 50%;
-  right: 50%;
+  width: 100%;
+  height: 100%;
   backface-visibility: hidden;
   transform: rotateY(180deg);
   background-color: blueviolet;
+  display: flex;
+}
+
+.card-back div {
+  font-weight: bold;
 }
 
 .project-card img {
@@ -58,7 +63,7 @@
 .card-hover {
   transform: scale(1.1);
   box-shadow: 0 0 25px rgba(25, 25, 25, 0.5);
-  z-index: 2; 
+  z-index: 2;
 }
 
 .card-body {

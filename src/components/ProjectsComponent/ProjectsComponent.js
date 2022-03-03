@@ -51,7 +51,10 @@ export const ProjectsComponent = (props) => {
               </div>
               <div className="card-back">
                 <div className="text-white">
-                  TEST
+                  BACKSIDE TEST
+                </div>
+                <div className="text-white">
+                  gonna put info here
                 </div>
               </div>
             </div>
