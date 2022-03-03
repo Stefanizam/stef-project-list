@@ -34,7 +34,7 @@ export const ProjectsComponent = (props) => {
               onClick={() => cardClickHandler(project.id)}
               onMouseLeave={mouseLeaveHandler}
               title="Click to view detailed info"
-              className={`card project-card ${project.id === selectedProject ? "card-rotate" : ""}`}
+              className={`card project-card ${project.id === selectedProject ? "card-clicked" : ""}`}
               key={project.id}>
               <div className="card-front">
                 <img
@@ -54,7 +54,7 @@ export const ProjectsComponent = (props) => {
                   BACKSIDE TEST
                 </div>
                 <div className="text-white">
-                  gonna put info here
+                  Gonna put info for {project.title} here
                 </div>
               </div>
             </div>
