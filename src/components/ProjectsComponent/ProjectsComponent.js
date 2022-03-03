@@ -18,7 +18,7 @@ export const ProjectsComponent = (props) => {
       {
         filteredProjects.map(project => {
           return (
-            <div className="card project-card" key={Math.random()}>
+            <div title="Click to view detailed info" className="card project-card" key={Math.random()}>
               <img
                 className="card-img-top"
                 src={project.imageUrl}
